@@ -1,0 +1,4 @@
+.*swp
+Session.vim
+log/*.log
+db/*.sqlite3
