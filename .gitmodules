@@ -4,3 +4,6 @@
 [submodule "vendor/plugins/rspec-rails"]
 	path = vendor/plugins/rspec-rails
 	url = git://github.com/dchelimsky/rspec-rails.git
+[submodule "vendor/plugins/authlogic"]
+	path = vendor/plugins/authlogic
+	url = git://github.com/binarylogic/authlogic.git
